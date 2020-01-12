@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9e24520-e09c-44cc-ab47-7fd39eac5a91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cashbook_aeontanvir@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UgR5DVd9CFst1mJM61WWZ83U2j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.MainFrame">
+    <configuration name="BarChartDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B.BarChartDemo" />
+      <module name="CashBook-AeonTanvir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aeontanvir.ChangeFrame" />
+      <module name="CashBook-AeonTanvir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aeontanvir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aeontanvir.LoginFrame" />
+      <module name="CashBook-AeonTanvir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aeontanvir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aeontanvir.MainFrame" />
+      <module name="CashBook-AeonTanvir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aeontanvir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignupFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aeontanvir.SignupFrame" />
+      <module name="CashBook-AeonTanvir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aeontanvir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFrame" />
+        <item itemvalue="Application.LoginFrame" />
+        <item itemvalue="Application.SignupFrame" />
+        <item itemvalue="Application.ChangeFrame" />
+        <item itemvalue="Application.BarChartDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9e24520-e09c-44cc-ab47-7fd39eac5a91" name="Default Changelist" comment="" />
+      <created>1575776066903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575776066903</updated>
+      <workItem from="1575776070381" duration="395000" />
+      <workItem from="1575776588347" duration="158000" />
+      <workItem from="1575816104202" duration="275000" />
+      <workItem from="1575968149139" duration="7781000" />
+      <workItem from="1576044834792" duration="1145000" />
+      <workItem from="1576046491361" duration="475000" />
+      <workItem from="1576047139218" duration="550000" />
+      <workItem from="1576633114903" duration="1278000" />
+      <workItem from="1576648867291" duration="4051000" />
+      <workItem from="1576652982018" duration="2316000" />
+      <workItem from="1576656963717" duration="110000" />
+      <workItem from="1576806974547" duration="11526000" />
+      <workItem from="1576932305611" duration="3619000" />
+      <workItem from="1576943125449" duration="530000" />
+      <workItem from="1576981491869" duration="355000" />
+      <workItem from="1577169073568" duration="5685000" />
+      <workItem from="1577175048720" duration="1756000" />
+      <workItem from="1577189948963" duration="2947000" />
+      <workItem from="1577193219961" duration="6881000" />
+      <workItem from="1577248069889" duration="2000" />
+      <workItem from="1577249373672" duration="2785000" />
+      <workItem from="1577253140155" duration="985000" />
+      <workItem from="1577448773030" duration="160000" />
+      <workItem from="1577450688399" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="87" key="#SQL_Dialects" timestamp="1576896315069">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="320" y="87" key="#SQL_Dialects/0.23.1440.804@0.23.1440.804" timestamp="1576896315069" />
+    <state x="320" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575816196044">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1575816196044" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom" timestamp="1577253111061">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575982239855" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1577174902407" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1577253111061" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1577191568632" />
+    <state width="1398" height="157" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.801" timestamp="1576651897452" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1577199768662" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1577191677082" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1577192917083" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1577192515809" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center" timestamp="1577253111060">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575982239852" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1577174902406" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1577253111060" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1577191568625" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1577199768661" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1577191677080" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1577192917081" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1577192515807" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left" timestamp="1577253111060">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575982239850" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1577174902405" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1577253111060" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1577191568624" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1577199768661" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1577191677079" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1577192917080" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1577192515806" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right" timestamp="1577253111061">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575982239854" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1577174902407" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1577253111061" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1577191568625" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1577199768662" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1577191677081" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1577192917082" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1577192515808" />
+    <state x="204" y="65" key="SettingsEditor" timestamp="1577253104487">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="204" y="65" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1577253104487" />
+    <state x="204" y="65" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1577174896304" />
+    <state x="204" y="65" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1577174350856" />
+    <state x="378" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576651035440">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="378" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.801@0.23.1440.801" timestamp="1576651035440" />
+  </component>
+</project>

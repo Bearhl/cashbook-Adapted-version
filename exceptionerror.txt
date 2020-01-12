@@ -1,0 +1,51 @@
+--2019/11/19 23:51:41 -- Exception Error : 		LoginFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/11/19 23:52:45 -- Exception Error : 		LoginFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/11/20 00:00:33 -- Exception Error : 		LoginFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/11/20 19:00:40 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+--2019/11/20 19:08:51 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/11/20 19:10:10 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+--2019/11/20 19:16:00 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+--2019/11/20 19:20:03 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Column count doesn't match value count at row 1
+--2019/11/20 19:22:08 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Column count doesn't match value count at row 1
+--2019/11/20 19:28:13 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1' for key 'PRIMARY'
+--2019/11/20 19:30:57 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: No value specified for parameter 5
+--2019/11/20 19:31:29 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Incorrect integer value: 'ddd' for column 'id' at row 1
+--2019/11/20 19:32:37 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '1' for key 'PRIMARY'
+--2019/11/20 19:40:30 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '5' for key 'PRIMARY'
+--2019/11/20 19:54:38 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLSyntaxErrorException: Table 'cashbook_aeontanvir.student' doesn't exist
+--2019/11/20 19:55:50 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLSyntaxErrorException: Table 'cashbook_aeontanvir.student' doesn't exist
+--2019/11/20 19:56:29 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Before start of result set
+--2019/11/21 15:15:12 -- Exception Error : 		LoginFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/11/21 16:43:03 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 16:43:03 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 16:50:23 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 16:53:36 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 16:54:02 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 16:57:38 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 16:58:21 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 16:59:20 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 17:10:08 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 17:12:43 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 17:12:43 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 21:34:22 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 21:35:17 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 21:36:12 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 21:37:44 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 21:37:44 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/21 22:13:58 -- Exception Error : 		btnSaleAddActionPerformed
+--2019/11/21 22:13:58 -- Exception Error : 		btnSaleAddActionPerformed
+--2019/11/21 22:13:58 -- Exception Error : 		btnSaleAddActionPerformed
+--2019/11/21 22:13:58 -- Exception Error : 		btnSaleAddActionPerformed
+--2019/11/21 22:20:24 -- Exception Error : 		btnSaleAddActionPerformed
+--2019/11/30 10:50:58 -- Exception Error : 		btnCashAddActionPerformed
+--2019/11/30 10:50:58 -- Exception Error : 		btnCashAddActionPerformed
+--2019/12/20 10:14:41 -- Exception Error : 		LoginFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/12/20 10:14:41 -- Exception Error : 		LoginFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/12/20 10:16:43 -- Exception Error : 		LoginFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/12/20 10:21:25 -- Exception Error : 		LoginFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/12/20 10:23:42 -- Exception Error : 		LoginFrame btnLoginActionPerformed Error 	java.lang.NullPointerException
+--2019/12/24 15:49:04 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Column count doesn't match value count at row 1
+--2019/12/24 15:49:04 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Column count doesn't match value count at row 1
+--2019/12/24 15:49:04 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Column count doesn't match value count at row 1
+--2019/12/24 15:49:04 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Column count doesn't match value count at row 1
+--2019/12/24 15:49:04 -- Exception Error : 		SignupFrame btnLoginActionPerformed Error 	java.sql.SQLException: Column count doesn't match value count at row 1
